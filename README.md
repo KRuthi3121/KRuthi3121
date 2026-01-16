@@ -41,7 +41,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,jupyterlab,vscode&theme=light" />
 </p>
 
 
