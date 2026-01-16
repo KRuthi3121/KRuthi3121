@@ -5,7 +5,12 @@
 <h1 align="center">Kruthi</h1>
 
 <p align="center">
-  Backend systems · Data-driven applications · Applied AI
+   Data-driven applications  Applied AI  Backend systems
+</p>
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kruthi3121.Kruthi3121" />
 </p>
 
 
