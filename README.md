@@ -16,7 +16,6 @@ Experience spans machine learning pipelines, cloud deployment, and applied AI sy
 Projects emphasize clear abstractions, traceable data flows, and practical deployment across environments.
 
 
-
 ## Stack
 
 ### Languages
@@ -41,7 +40,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyterlab,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,anaconda,vscode&theme=light" />
 </p>
 
 
