@@ -1,43 +1,59 @@
-# Kruthi
+<p align="center">
+  <img width="120" src="https://avatars.githubusercontent.com/Kruthi3121" alt="Kruthi Avatar"/>
+</p>
 
-Software and data systems enthusiast.  
-I build, test, and refine things to understand how they work.
+<h1 align="center">Hi, I’m Kruthi</h1>
+<p align="center">
+  Software engineer | Data enthusiast | System thinker
+</p>
 
----
-
-## Stack
-
-![Skills](https://skillicons.dev/icons?i=python,sql,git,linux,docker,aws,gcp,azure,fastapi,sklearn&theme=light)
-
----
-
-## Focus
-
-- Backend services and APIs  
-- Data analysis and machine learning workflows  
-- Cloud infrastructure and deployment  
-- Small, well-scoped experiments  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kruthi3121.Kruthi3121" alt="visitor badge"/>
+</p>
 
 ---
 
-## Selected Work
+## 👩‍💻 About
 
-- **Harmful Algal Bloom Detection**  
-  Machine learning on satellite data for environmental monitoring.
-
-- **ASL to Text Conversion**  
-  Computer vision pipeline for gesture recognition.
+I build backend systems and data workflows that are clear, reliable, and testable.  
+I explore machine learning and cloud infrastructure with real projects and clean implementation.
 
 ---
 
-## GitHub Activity
+## 🔧 Tools & Tech
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kruthi3121&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,git,linux,docker,aws,gcp,azure,fastapi,sklearn&theme=light" />
+</p>
 
 ---
 
-## Links
+## 🧠 Focus Areas
 
-- GitHub: https://github.com/Kruthi3121  
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Backend APIs and services  
+- Machine learning pipelines  
+- Cloud deployment and infrastructure  
+- Practical experiments that deepen understanding  
 
+---
+
+## 🛠 Featured Work
+
+**Harmful Algal Bloom Detection**  
+*ML on satellite data to detect environmental changes.*
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kruthi3121&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
+- 📨 Email: jangamkruthi17@gmail.cim
