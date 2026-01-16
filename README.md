@@ -21,12 +21,12 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,postgres&theme=light" />
 </p>
 
 ### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=light" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=light" />
 </p>
 
 ### Data & Machine Learning
