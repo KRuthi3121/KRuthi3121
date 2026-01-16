@@ -5,13 +5,13 @@
 <h1 align="center">Kruthi</h1>
 
 <p align="center">
-   Data-driven applications  Applied AI  Backend systems
+  Backend systems · Data-driven applications · Applied AI
 </p>
-
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kruthi3121.Kruthi3121" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kruthi3121.Kruthi3121&left_color=lightgrey&right_color=blue" />
 </p>
+
 
 
 ## About
@@ -19,6 +19,7 @@
 Work centered on backend systems and data-driven applications.  
 Experience spans machine learning pipelines, cloud deployment, and applied AI systems, with attention to system behavior and operational constraints.  
 Projects emphasize clear abstractions, traceable data flows, and practical deployment across environments.
+
 
 
 ## Stack
@@ -49,6 +50,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 </p>
 
 
+
 ## Focus
 
 - Backend APIs and service boundaries  
@@ -63,7 +65,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 **Harmful Algal Bloom Detection**  
 Machine learning system for environmental monitoring using satellite data.  
-🔗 https://github.com/KRuthi3121/Harmful-Algal-Bloom-Detection-System
+https://github.com/KRuthi3121/Harmful-Algal-Bloom-Detection-System
 
 
 
