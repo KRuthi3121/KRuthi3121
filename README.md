@@ -41,7 +41,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=light" />
 </p>
 
 ### Tooling
