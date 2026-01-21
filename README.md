@@ -31,13 +31,14 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postman,mongodb&theme=light" />
 </p>
 
 ### Data & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,mongodb&theme=light" />
 </p>
+
 
 ### Cloud & Infrastructure
 <p align="center">
@@ -48,7 +49,6 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,anaconda,vscode&theme=light" />
 </p>
-
 
 
 ## Focus
