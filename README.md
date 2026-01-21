@@ -36,7 +36,7 @@ Projects emphasize clear abstractions, traceable data flows, and practical deplo
 
 ### Data & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,mysqlworkbenchb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=light" />
 </p>
 
 
